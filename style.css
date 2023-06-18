@@ -1,0 +1,30 @@
+.search_bar {
+    width: 400px;
+    border: 03px solid white;
+    padding: 08px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+input {
+    background: transparent ;
+    border: 0px;
+    outline: 0px;
+    width: 350px;
+    color: white;
+}
+h1 {
+    text-align: center;
+    margin-top: 250px;
+    font-size: 65px;
+    color: white;
+}
+body {
+    background-image: url("/google/resources/images/1.jpg");
+}
+a {
+    color: white;
+    border: rgb(220, 220, 220) solid 3px;
+    padding: 3px;
+}
